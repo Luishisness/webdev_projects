@@ -1,0 +1,123 @@
+
+.modal-content{margin:auto !important; width:auto !important; height: auto !important;}
+
+.carousel{
+   width: auto !important;
+   height: auto !important;
+}
+
+.modal-header{ background-image: url('../images/Melamine-wood-004.png') !important;}
+.modal-footer{ background-image: url('../images/Melamine-wood-004.png') !important;}
+/*********************class for past/current works*********************/
+.bottomMenu {
+    display: none;
+    position: fixed;
+    }
+    
+    
+/*********************Div Box for social media links*******************/
+li{display:inline;}
+
+.socialmediabox{
+	margin: auto;
+	background-color:none;
+	text-align:right;    	      
+}
+
+.socialmediaboxhome{
+	margin: auto;
+	background-color:none;
+	text-align:right;  
+	margin: 50px !important;  	      
+}
+
+
+/* Social Media Icons
+----------------------------------------------- */
+a.socialIcons {
+	margin-right: 5px; /* Increase the number to increase the space between the icons */
+
+}
+
+a.socialIcons:hover {
+	opacity: .8;
+	filter:alpha(opacity=80); /* For IE8 and earlier */
+	
+}
+
+
+
+
+.dropdown-menu{background-image: url('../images/Melamine-wood-001.png') !important;}
+
+.icon-bar{background-color:black !important;}
+
+.navbar-nav{
+margin: auto !important;
+border-bottom:solid black !important;
+border-bottom-width: 1px !important;
+background-image: url('../images/Melamine-wood-001.png') !important;
+}
+
+.navbar-fixed-top{
+background-image: url('../images/Melamine-wood-001.png') !important;
+margin: auto !important;
+width: 80% !important;
+}
+
+.nav{
+	width: 100% !important;;
+	text-align: center !important;
+	border-color:black !important;
+	
+}
+
+.nav a {
+	text-decoration:none !important;
+	padding:10px !important;
+	background-color:none !important;
+	color:black !important;
+	font-weight:550 !important;
+}
+
+.nav a:hover {
+	text-decoration:none !important;
+	color: white !important;
+	background: radial-gradient(at top left, Black, Gray) !important;
+	/*fader for hyperlinks*/
+	-webkit-transition: all 1.1s ease-out !important;  /*Saf3.2+, Chrome */
+    -moz-transition: all 1.1s ease-out !important;  /*FF4+ */
+    -ms-transition: all 1.1s ease-out !important;  /* IE10 */
+    -o-transition: all 1.1s ease-out !important;   /* Opera 10.5+ */
+    transition: all 1.1s ease-out !important;
+} 
+
+.nav a:visited{
+	Text-Decoration: none !important;
+	color: none !important;
+}
+
+.nav a:active{color: black !important;}
+
+body{ background-color:#393226 !important;}
+
+.container{ background-image: url('../images/Melamine-wood-001.png') !important;}
+
+
+.page-header{
+margin:0px 0px 15px 0px !important;
+text-align:center !important;
+border-bottom:solid black !important;
+border-bottom-width: 1px !important;
+
+}
+.page-headerone{
+margin:170px 0px 0px 70px !important;
+text-align:center !important;
+}
+
+.footer{background-color:#393226!important;}
+
+.text-muted{text-align:center !important;}
+
+/*---------------------Begin test section--------------------*/
